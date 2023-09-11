@@ -30,3 +30,10 @@ D:\HK-7\Phan-mem-thong-minh\API_QuanLyKho\API_QuanLyKho\obj\Debug\net6.0\refint\
 D:\HK-7\Phan-mem-thong-minh\API_QuanLyKho\API_QuanLyKho\obj\Debug\net6.0\API_QuanLyKho.pdb
 D:\HK-7\Phan-mem-thong-minh\API_QuanLyKho\API_QuanLyKho\obj\Debug\net6.0\API_QuanLyKho.genruntimeconfig.cache
 D:\HK-7\Phan-mem-thong-minh\API_QuanLyKho\API_QuanLyKho\obj\Debug\net6.0\ref\API_QuanLyKho.dll
+D:\HK-7\Phan-mem-thong-minh\API_QuanLyKho\API_QuanLyKho\bin\Debug\net6.0\AutoMapper.dll
+D:\HK-7\Phan-mem-thong-minh\API_QuanLyKho\API_QuanLyKho\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\HK-7\Phan-mem-thong-minh\API_QuanLyKho\API_QuanLyKho\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\HK-7\Phan-mem-thong-minh\API_QuanLyKho\API_QuanLyKho\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\HK-7\Phan-mem-thong-minh\API_QuanLyKho\API_QuanLyKho\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\HK-7\Phan-mem-thong-minh\API_QuanLyKho\API_QuanLyKho\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HK-7\Phan-mem-thong-minh\API_QuanLyKho\API_QuanLyKho\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
