@@ -12,11 +12,11 @@
     </tr>
     <tr>
         <td>Ngô Ngọc Minh Sang</td>
-        <td>2001200612</td>
+        <td></td>
     </tr>
     <tr>
         <td>Nguyễn Minh Tuấn</td>
-        <td>2001200196</td>
+        <td></td>
     </tr>
 </table>
 # 👉 MÔ TẢ DỰ ÁN:
