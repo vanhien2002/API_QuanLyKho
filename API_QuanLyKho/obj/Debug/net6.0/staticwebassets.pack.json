@@ -1,0 +1,225 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\DDTC001.jpg",
+      "PackagePath": "staticwebassets\\img\\DDTC001.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\DDTC002.jpg",
+      "PackagePath": "staticwebassets\\img\\DDTC002.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\DDTC003.jpg",
+      "PackagePath": "staticwebassets\\img\\DDTC003.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\DDTC004.jpg",
+      "PackagePath": "staticwebassets\\img\\DDTC004.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\DDTC005.jpg",
+      "PackagePath": "staticwebassets\\img\\DDTC005.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\DDTC006.jpg",
+      "PackagePath": "staticwebassets\\img\\DDTC006.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\DDTC007.jpg",
+      "PackagePath": "staticwebassets\\img\\DDTC007.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\DDTC008.jpg",
+      "PackagePath": "staticwebassets\\img\\DDTC008.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\DDTC009.jpg",
+      "PackagePath": "staticwebassets\\img\\DDTC009.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\DDTC010.jpg",
+      "PackagePath": "staticwebassets\\img\\DDTC010.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\HS001.jpg",
+      "PackagePath": "staticwebassets\\img\\HS001.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\HS002.jpg",
+      "PackagePath": "staticwebassets\\img\\HS002.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\HS003.jpg",
+      "PackagePath": "staticwebassets\\img\\HS003.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\HS004.jpg",
+      "PackagePath": "staticwebassets\\img\\HS004.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\HS005.jpg",
+      "PackagePath": "staticwebassets\\img\\HS005.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\HS006.jpg",
+      "PackagePath": "staticwebassets\\img\\HS006.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\HS007.jpg",
+      "PackagePath": "staticwebassets\\img\\HS007.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\HS008.jpg",
+      "PackagePath": "staticwebassets\\img\\HS008.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\HS009.jpg",
+      "PackagePath": "staticwebassets\\img\\HS009.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\HS010.jpg",
+      "PackagePath": "staticwebassets\\img\\HS010.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\LKD001.jpg",
+      "PackagePath": "staticwebassets\\img\\LKD001.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\LKD002.jpg",
+      "PackagePath": "staticwebassets\\img\\LKD002.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\LKD003.jpg",
+      "PackagePath": "staticwebassets\\img\\LKD003.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\LKD004.jpg",
+      "PackagePath": "staticwebassets\\img\\LKD004.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\LKD005.jpg",
+      "PackagePath": "staticwebassets\\img\\LKD005.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\LKD006.jpg",
+      "PackagePath": "staticwebassets\\img\\LKD006.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\LKD007.jpg",
+      "PackagePath": "staticwebassets\\img\\LKD007.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\LKD008.jpg",
+      "PackagePath": "staticwebassets\\img\\LKD008.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\LKD009.jpg",
+      "PackagePath": "staticwebassets\\img\\LKD009.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\LKD010.jpg",
+      "PackagePath": "staticwebassets\\img\\LKD010.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\NUC001.jpg",
+      "PackagePath": "staticwebassets\\img\\NUC001.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\NUC002.jpg",
+      "PackagePath": "staticwebassets\\img\\NUC002.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\NUC003.jpg",
+      "PackagePath": "staticwebassets\\img\\NUC003.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\NUC004.jpg",
+      "PackagePath": "staticwebassets\\img\\NUC004.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\NUC005.jpg",
+      "PackagePath": "staticwebassets\\img\\NUC005.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\NUC006.jpg",
+      "PackagePath": "staticwebassets\\img\\NUC006.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\NUC007.jpg",
+      "PackagePath": "staticwebassets\\img\\NUC007.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\NUC008.jpg",
+      "PackagePath": "staticwebassets\\img\\NUC008.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\NUC009.jpg",
+      "PackagePath": "staticwebassets\\img\\NUC009.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\NUC010.jpg",
+      "PackagePath": "staticwebassets\\img\\NUC010.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\TC001.jpg",
+      "PackagePath": "staticwebassets\\img\\TC001.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\TC002.jpg",
+      "PackagePath": "staticwebassets\\img\\TC002.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\TC003.jpg",
+      "PackagePath": "staticwebassets\\img\\TC003.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\TC004.jpg",
+      "PackagePath": "staticwebassets\\img\\TC004.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\TC005.jpg",
+      "PackagePath": "staticwebassets\\img\\TC005.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\TC006.jpg",
+      "PackagePath": "staticwebassets\\img\\TC006.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\TC007.jpg",
+      "PackagePath": "staticwebassets\\img\\TC007.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\TC008.jpg",
+      "PackagePath": "staticwebassets\\img\\TC008.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\TC009.jpg",
+      "PackagePath": "staticwebassets\\img\\TC009.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\TC010.jpg",
+      "PackagePath": "staticwebassets\\img\\TC010.jpg"
+    },
+    {
+      "Id": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\wwwroot\\img\\sinh-vien.jpg",
+      "PackagePath": "staticwebassets\\img\\sinh-vien.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.API_QuanLyKho.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.API_QuanLyKho.props",
+      "PackagePath": "build\\API_QuanLyKho.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.API_QuanLyKho.props",
+      "PackagePath": "buildMultiTargeting\\API_QuanLyKho.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.API_QuanLyKho.props",
+      "PackagePath": "buildTransitive\\API_QuanLyKho.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,1095 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project-personal\\API_QUANLYKHO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\repository\\nhacungcaprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\repository\\nhacungcaprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\service\\chitietxhservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\service\\chitietxhservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\repository\\giohangrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\repository\\giohangrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\repository\\chitietnhrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\repository\\chitietnhrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\repository\\airepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\repository\\airepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\model\\aimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\model\\aimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\controllers\\chitietnhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\controllers\\chitietnhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\service\\aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\service\\aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\service\\chitietnhservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\service\\chitietnhservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\repository\\chitietxhrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\repository\\chitietxhrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\hepper\\webendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\hepper\\webendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\controllers\\chitietxhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\controllers\\chitietxhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\model\\chitietnhmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\model\\chitietnhmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\controllers\\dangnhapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\controllers\\dangnhapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\repository\\dangnhaprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\repository\\dangnhaprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\hepper\\mylibconnectdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\hepper\\mylibconnectdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\hepper\\applicationcontants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\hepper\\applicationcontants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\controllers\\khohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\controllers\\khohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\service\\khachhangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\service\\khachhangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\repository\\khachhangrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\repository\\khachhangrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\repository\\sanphamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\repository\\sanphamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\controllers\\phieunhaphangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\controllers\\phieunhaphangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\repository\\nhanvienrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\repository\\nhanvienrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\repository\\phieunhaphangrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\repository\\phieunhaphangrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\service\\sanphamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\service\\sanphamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\model\\sanphammodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\model\\sanphammodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\controllers\\phieuxuathangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\controllers\\phieuxuathangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\repository\\nhomnguoidungrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\repository\\nhomnguoidungrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\service\\nhanvienservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\service\\nhanvienservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\controllers\\nhanviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\controllers\\nhanviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\service\\khohangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\service\\khohangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\service\\dangnhapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\service\\dangnhapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\service\\kespservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\service\\kespservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\service\\manhinhservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\service\\manhinhservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\service\\phanquyenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\service\\phanquyenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\service\\phieunhaphangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\service\\phieunhaphangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\service\\taikhoannvservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\service\\taikhoannvservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\repository\\taikhoannvrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\repository\\taikhoannvrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\model\\taikhoannvmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\model\\taikhoannvmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\controllers\\manhinhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\controllers\\manhinhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\controllers\\nhomnguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\controllers\\nhomnguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\controllers\\phanquyencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\controllers\\phanquyencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\controllers\\nhacungcapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\controllers\\nhacungcapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\controllers\\taikhoannvcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\controllers\\taikhoannvcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\controllers\\kespcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\controllers\\kespcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\service\\nhomnguoidungservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\service\\nhomnguoidungservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\repository\\manhinhrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\repository\\manhinhrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\repository\\phanquyenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\repository\\phanquyenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\repository\\kesprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\repository\\kesprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\repository\\phieuxuathangrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\repository\\phieuxuathangrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\service\\nhacungcapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\service\\nhacungcapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\service\\khuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\service\\khuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\service\\loaispservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\service\\loaispservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\model\\nhacungcapmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\model\\nhacungcapmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\model\\chucvumodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\model\\chucvumodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\controllers\\chucvucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\controllers\\chucvucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\model\\chitietxhmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\model\\chitietxhmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\repository\\khusprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\repository\\khusprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\repository\\khohangrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\repository\\khohangrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\repository\\loaisprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\repository\\loaisprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\service\\phieuxuathangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\service\\phieuxuathangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\controllers\\loaispcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\controllers\\loaispcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|d:\\project-personal\\api_quanlykho\\api_quanlykho\\api_quanlykho.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D0BCAF15-2C05-41C8-BCBE-A0160B1C66FB}|API_QuanLyKho\\API_QuanLyKho.csproj|solutionrelative:api_quanlykho\\api_quanlykho.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GioHangController.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Controllers\\GioHangController.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Controllers\\GioHangController.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Controllers\\GioHangController.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Controllers\\GioHangController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwB4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T02:29:15.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GioHangRepository.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Repository\\GioHangRepository.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Repository\\GioHangRepository.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Repository\\GioHangRepository.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Repository\\GioHangRepository.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAswCYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:51:36.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChiTietNHRepository.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Repository\\ChiTietNHRepository.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Repository\\ChiTietNHRepository.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Repository\\ChiTietNHRepository.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Repository\\ChiTietNHRepository.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAwwBcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AIRepository.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Repository\\AIRepository.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Repository\\AIRepository.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Repository\\AIRepository.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Repository\\AIRepository.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwBAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AIModel.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Model\\AIModel.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Model\\AIModel.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Model\\AIModel.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Model\\AIModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NhaCungCapRepository.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Repository\\NhaCungCapRepository.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Repository\\NhaCungCapRepository.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Repository\\NhaCungCapRepository.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Repository\\NhaCungCapRepository.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAIwA0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Program.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Program.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Program.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAEkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChiTietXHService.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Service\\ChiTietXHService.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Service\\ChiTietXHService.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Service\\ChiTietXHService.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Service\\ChiTietXHService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:52:35.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChiTietNHService.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Service\\ChiTietNHService.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Service\\ChiTietNHService.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Service\\ChiTietNHService.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Service\\ChiTietNHService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AIService.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Service\\AIService.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Service\\AIService.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Service\\AIService.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Service\\AIService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChiTietNHController.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Controllers\\ChiTietNHController.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Controllers\\ChiTietNHController.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Controllers\\ChiTietNHController.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Controllers\\ChiTietNHController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AIController.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Controllers\\AIController.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Controllers\\AIController.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Controllers\\AIController.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Controllers\\AIController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAYwBQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WebEndpoint.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Hepper\\WebEndpoint.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Hepper\\WebEndpoint.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Hepper\\WebEndpoint.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Hepper\\WebEndpoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChiTietXHRepository.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Repository\\ChiTietXHRepository.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Repository\\ChiTietXHRepository.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Repository\\ChiTietXHRepository.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Repository\\ChiTietXHRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ChiTietXHController.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Controllers\\ChiTietXHController.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Controllers\\ChiTietXHController.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Controllers\\ChiTietXHController.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Controllers\\ChiTietXHController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\WeatherForecast.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\WeatherForecast.cs",
+              "RelativeToolTip": "API_QuanLyKho\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DangNhapRepository.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Repository\\DangNhapRepository.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Repository\\DangNhapRepository.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Repository\\DangNhapRepository.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Repository\\DangNhapRepository.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAkwF4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MyLibConnectDB.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Hepper\\MyLibConnectDB.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Hepper\\MyLibConnectDB.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Hepper\\MyLibConnectDB.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Hepper\\MyLibConnectDB.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAAEoAAACaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ChiTietNHModel.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Model\\ChiTietNHModel.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Model\\ChiTietNHModel.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Model\\ChiTietNHModel.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Model\\ChiTietNHModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationContants.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Hepper\\ApplicationContants.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Hepper\\ApplicationContants.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Hepper\\ApplicationContants.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Hepper\\ApplicationContants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "KhachHangController.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Controllers\\KhachHangController.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Controllers\\KhachHangController.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Controllers\\KhachHangController.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Controllers\\KhachHangController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwC8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DangNhapController.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Controllers\\DangNhapController.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Controllers\\DangNhapController.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Controllers\\DangNhapController.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Controllers\\DangNhapController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAswF4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "KhoHangController.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Controllers\\KhoHangController.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Controllers\\KhoHangController.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Controllers\\KhoHangController.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Controllers\\KhoHangController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SanPhamRepository.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Repository\\SanPhamRepository.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Repository\\SanPhamRepository.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Repository\\SanPhamRepository.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Repository\\SanPhamRepository.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA2wCEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PhieuNhapHangController.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Controllers\\PhieuNhapHangController.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Controllers\\PhieuNhapHangController.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Controllers\\PhieuNhapHangController.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Controllers\\PhieuNhapHangController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwEEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "KhachHangRepository.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Repository\\KhachHangRepository.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Repository\\KhachHangRepository.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Repository\\KhachHangRepository.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Repository\\KhachHangRepository.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAUwDwAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "KhachHangService.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Service\\KhachHangService.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Service\\KhachHangService.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Service\\KhachHangService.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Service\\KhachHangService.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAcwAoAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "NhanVienRepository.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Repository\\NhanVienRepository.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Repository\\NhanVienRepository.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Repository\\NhanVienRepository.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Repository\\NhanVienRepository.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAiwBEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SanPhamService.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Service\\SanPhamService.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Service\\SanPhamService.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Service\\SanPhamService.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Service\\SanPhamService.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAwD8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PhieuXuatHangController.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Controllers\\PhieuXuatHangController.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Controllers\\PhieuXuatHangController.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Controllers\\PhieuXuatHangController.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Controllers\\PhieuXuatHangController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PhieuNhapHangRepository.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Repository\\PhieuNhapHangRepository.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Repository\\PhieuNhapHangRepository.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Repository\\PhieuNhapHangRepository.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Repository\\PhieuNhapHangRepository.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SanPhamController.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Controllers\\SanPhamController.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Controllers\\SanPhamController.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Controllers\\SanPhamController.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Controllers\\SanPhamController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAwEAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SanPhamModel.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Model\\SanPhamModel.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Model\\SanPhamModel.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Model\\SanPhamModel.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Model\\SanPhamModel.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAswBwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "NhomNguoiDungRepository.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Repository\\NhomNguoiDungRepository.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Repository\\NhomNguoiDungRepository.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Repository\\NhomNguoiDungRepository.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Repository\\NhomNguoiDungRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "KhoHangService.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Service\\KhoHangService.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Service\\KhoHangService.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Service\\KhoHangService.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Service\\KhoHangService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "NhanVienController.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Controllers\\NhanVienController.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Controllers\\NhanVienController.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Controllers\\NhanVienController.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Controllers\\NhanVienController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAuwE4AAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "NhanVienService.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Service\\NhanVienService.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Service\\NhanVienService.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Service\\NhanVienService.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Service\\NhanVienService.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAcwDUAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "KeSPService.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Service\\KeSPService.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Service\\KeSPService.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Service\\KeSPService.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Service\\KeSPService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DangNhapService.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Service\\DangNhapService.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Service\\DangNhapService.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Service\\DangNhapService.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Service\\DangNhapService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "NhaCungCapModel.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Model\\NhaCungCapModel.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Model\\NhaCungCapModel.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Model\\NhaCungCapModel.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Model\\NhaCungCapModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ManHinhService.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Service\\ManHinhService.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Service\\ManHinhService.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Service\\ManHinhService.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Service\\ManHinhService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PhanQuyenService.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Service\\PhanQuyenService.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Service\\PhanQuyenService.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Service\\PhanQuyenService.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Service\\PhanQuyenService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PhieuNhapHangService.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Service\\PhieuNhapHangService.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Service\\PhieuNhapHangService.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Service\\PhieuNhapHangService.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Service\\PhieuNhapHangService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "TaiKhoanNVService.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Service\\TaiKhoanNVService.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Service\\TaiKhoanNVService.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Service\\TaiKhoanNVService.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Service\\TaiKhoanNVService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "TaiKhoanNVRepository.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Repository\\TaiKhoanNVRepository.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Repository\\TaiKhoanNVRepository.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Repository\\TaiKhoanNVRepository.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Repository\\TaiKhoanNVRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "TaiKhoanNVModel.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Model\\TaiKhoanNVModel.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Model\\TaiKhoanNVModel.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Model\\TaiKhoanNVModel.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Model\\TaiKhoanNVModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ManHinhController.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Controllers\\ManHinhController.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Controllers\\ManHinhController.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Controllers\\ManHinhController.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Controllers\\ManHinhController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "NhomNguoiDungController.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Controllers\\NhomNguoiDungController.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Controllers\\NhomNguoiDungController.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Controllers\\NhomNguoiDungController.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Controllers\\NhomNguoiDungController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "PhanQuyenController.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Controllers\\PhanQuyenController.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Controllers\\PhanQuyenController.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Controllers\\PhanQuyenController.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Controllers\\PhanQuyenController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "NhaCungCapController.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Controllers\\NhaCungCapController.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Controllers\\NhaCungCapController.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Controllers\\NhaCungCapController.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Controllers\\NhaCungCapController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "TaiKhoanNVController.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Controllers\\TaiKhoanNVController.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Controllers\\TaiKhoanNVController.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Controllers\\TaiKhoanNVController.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Controllers\\TaiKhoanNVController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "KeSPController.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Controllers\\KeSPController.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Controllers\\KeSPController.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Controllers\\KeSPController.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Controllers\\KeSPController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "NhomNguoiDungService.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Service\\NhomNguoiDungService.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Service\\NhomNguoiDungService.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Service\\NhomNguoiDungService.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Service\\NhomNguoiDungService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ManHinhRepository.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Repository\\ManHinhRepository.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Repository\\ManHinhRepository.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Repository\\ManHinhRepository.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Repository\\ManHinhRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "PhanQuyenRepository.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Repository\\PhanQuyenRepository.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Repository\\PhanQuyenRepository.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Repository\\PhanQuyenRepository.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Repository\\PhanQuyenRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "KeSPRepository.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Repository\\KeSPRepository.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Repository\\KeSPRepository.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Repository\\KeSPRepository.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Repository\\KeSPRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "PhieuXuatHangRepository.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Repository\\PhieuXuatHangRepository.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Repository\\PhieuXuatHangRepository.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Repository\\PhieuXuatHangRepository.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Repository\\PhieuXuatHangRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "NhaCungCapService.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Service\\NhaCungCapService.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Service\\NhaCungCapService.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Service\\NhaCungCapService.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Service\\NhaCungCapService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "KhuService.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Service\\KhuService.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Service\\KhuService.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Service\\KhuService.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Service\\KhuService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "LoaiSPService.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Service\\LoaiSPService.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Service\\LoaiSPService.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Service\\LoaiSPService.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Service\\LoaiSPService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ChucVuModel.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Model\\ChucVuModel.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Model\\ChucVuModel.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Model\\ChucVuModel.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Model\\ChucVuModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ChucVuController.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Controllers\\ChucVuController.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Controllers\\ChucVuController.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Controllers\\ChucVuController.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Controllers\\ChucVuController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ChiTietXHModel.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Model\\ChiTietXHModel.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Model\\ChiTietXHModel.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Model\\ChiTietXHModel.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Model\\ChiTietXHModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "KhoHangRepository.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Repository\\KhoHangRepository.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Repository\\KhoHangRepository.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Repository\\KhoHangRepository.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Repository\\KhoHangRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "KhuSPRepository.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Repository\\KhuSPRepository.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Repository\\KhuSPRepository.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Repository\\KhuSPRepository.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Repository\\KhuSPRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "LoaiSPRepository.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Repository\\LoaiSPRepository.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Repository\\LoaiSPRepository.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Repository\\LoaiSPRepository.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Repository\\LoaiSPRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "PhieuXuatHangService.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Service\\PhieuXuatHangService.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Service\\PhieuXuatHangService.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Service\\PhieuXuatHangService.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Service\\PhieuXuatHangService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "LoaiSPController.cs",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Controllers\\LoaiSPController.cs",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\Controllers\\LoaiSPController.cs",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\Controllers\\LoaiSPController.cs",
+              "RelativeToolTip": "API_QuanLyKho\\Controllers\\LoaiSPController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:50:19.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "API_QuanLyKho.csproj",
+              "DocumentMoniker": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\API_QuanLyKho.csproj",
+              "RelativeDocumentMoniker": "API_QuanLyKho\\API_QuanLyKho.csproj",
+              "ToolTip": "D:\\Project-personal\\API_QUANLYKHO\\API_QuanLyKho\\API_QuanLyKho.csproj",
+              "RelativeToolTip": "API_QuanLyKho\\API_QuanLyKho.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-17T03:50:19.811Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
