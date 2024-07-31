@@ -1,12 +1,4 @@
 # 🏷️ API_QUANLYKHO
-
-## 👨‍💻 Thành Viên Nhóm:
-| Tên Sinh Viên        |
-|----------------------|
-| Trần Văn Hiền        | 
-| Ngô Ngọc Minh Sang   |
-| Nguyễn Minh Tuấn     | 
-
 ## 👉 Mô Tả Dự Án:
 
 ### 💫 Thông Tin Về Dự Án:
